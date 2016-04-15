@@ -1,4 +1,4 @@
-# Tea botkit
+# Tea bot
 
 A slack bot that announces there is tea on the channel you configure.
 
@@ -30,7 +30,7 @@ A slack bot that announces there is tea on the channel you configure.
   @tb g is genmaicha
 
   @tb c is chai
-  
+
   ...
 
 4. Broadcast your tea
