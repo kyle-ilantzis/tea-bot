@@ -8,6 +8,10 @@ A slack bot that announces there is tea on the channel you configure.
 
     $> git clone git@github.com:kyle-ilantzis/tea-bot.git
 
+3. install the bokkit dependency
+
+  $> npm install
+
 2. Copy [config.json.template](config.json.template) to config.json and set your
    slack api token for the bot.
 
